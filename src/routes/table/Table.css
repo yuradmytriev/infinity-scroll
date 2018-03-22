@@ -1,0 +1,13 @@
+.table__wrapper {
+  overflow-x: hidden;
+  height: 200px;
+}
+
+.card {
+  padding: 20px;
+  position: relative;
+  word-wrap: break-word;
+  background-color: #fff;
+  background-clip: border-box;
+  border: 1px solid #c2cfd6;
+}
